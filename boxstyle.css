@@ -28,6 +28,7 @@ nav { background-color: rgb(196, 171, 255); padding: 6px 410px; font-size: 0.9em
 main {
     background-color: #303030;
     padding: 20px;
+    position:fixed;
 }
 
 aside {
